@@ -7,3 +7,5 @@
 *.iml
 /.tmpBin/
 sonar.sh
+
+!buildTools
