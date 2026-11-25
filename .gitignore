@@ -9,3 +9,5 @@
 sonar.sh
 
 !buildTools
+
+!.woodpecker
